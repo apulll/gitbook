@@ -1,4 +1,4 @@
 # Summary
 
-* [mobile](前端-mobile.md)
+* [mobile](前端-mobile)
 
